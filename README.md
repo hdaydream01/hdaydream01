@@ -4,7 +4,7 @@ Hi 👋 My name is Hiba El Idrissi Elabkary
 Data Science student
 --------------------
 
-Welcome to my GitHub! I'm a passionate data scientist/Engineer eager to explore and share my journey in the world of data. I enjoy diving deep into data to extract valuable insights and make data-driven decisions. Whether it's exploring datasets, building machine learning models, or creating data visualizations, I'm constantly learning and improving my skills. Here you'll find a collection of projects and repositories that showcase my skills and interests.
+Welcome to my GitHub! I'm a passionate Data Scientist/Engineer eager to explore and share my journey in the world of data. I enjoy diving deep into data to extract valuable insights and make data-driven decisions. Whether it's exploring datasets, building machine learning models, or creating data visualizations, I'm constantly learning and improving my skills. Here you'll find a collection of projects and repositories that showcase my skills and interests.
 
 * 🌍  I'm based in Mohammedia
 * ✉️  You can contact me at [hibaelidrissi1@gmail.com](mailto:hibaelidrissi1@gmail.com)
